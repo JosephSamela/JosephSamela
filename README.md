@@ -4,6 +4,6 @@ My name is Joe. I'm a software-guy in the Northeast with a passion for computers
 
 Check out my projects: [samela.io/blog/archive](https://samela.io/blog/archive)
 
-Listen to my podcast: [hosttheworld.org](hosttheworld.org)
+Listen to my podcast: [hosttheworld.org](https://hosttheworld.org)
 
 Hire me: [samela.io/resume](https://samela.io/resume)
